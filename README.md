@@ -20,7 +20,7 @@ Bu proje, Java dili kullanılarak geliştirilen iki oyunculu bir **büyücü sav
 
 ## 📷 Oyun İçi Görsel
 
-![Oyun ekran görüntüsü](Screenshots/ss.png)
+![Oyun ekran görüntüsü](ss.png)
 
 ## 📁 Proje Yapısı
 
